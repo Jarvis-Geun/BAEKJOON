@@ -17,7 +17,6 @@ for i in range(len(less_num)) :
 # 더 간결한 코드
 N, X = map(int, input().split())
 
-A = []
 A = list(map(int, input().split()))
 
 for i in range(len(A)) :
