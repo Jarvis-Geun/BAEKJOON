@@ -18,6 +18,7 @@ elif (N >= 100) and (N <= 1000) :
     print(num)
 
 
+
 # 다른 방법
 '''
 N = int(input())        # N : 1 <= N <= 1000 자연수
